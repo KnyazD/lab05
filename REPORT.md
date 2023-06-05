@@ -170,3 +170,7 @@ $ git push origin master
 ```
 bool success = Debit(to, sum + fee_); --> bool success = Debit(from, sum + fee_);
 ```
+```sh
+https://coveralls.io/github/KnyazD/lab05?branch=master
+[![Coverage Status](https://coveralls.io/repos/github/KnyazD/lab05/badge.svg?branch=master)](https://coveralls.io/github/KnyazD/lab05?branch=master)
+```
